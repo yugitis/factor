@@ -1,0 +1,7 @@
+https://github.com/yugitis/factor
+
+ssh  - git@github.com:yugitis/factor.git
+http - https://github.com/yugitis/factor.git
+
+ssh-keygen.exe
+
